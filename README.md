@@ -1,8 +1,8 @@
 # CS141_Project Edit Distance
 
 
-Author: [Cresencio Rey Carlos]
-Student ID: [862041280]
+Author: Cresencio Rey Carlos
+Student ID: 862041280
 
 ---
 
