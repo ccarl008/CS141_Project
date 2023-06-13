@@ -30,7 +30,7 @@ To compile and run the code in Visual Studio Code, please follow these instructi
 8. To run the program, use the following command in the terminal:
     ./editDistance
 
-9. The program will output the sequence of operations and the minimum edit distance between two example strings ("clarks" and "kirk"). You can modify the strings inside the `main` function of the code to calculate the edit distance for different inputs.
+9. The program will output the sequence of operations and the minimum edit distance between user inputted strings. 
 
 That's it! You have successfully compiled and run the Edit Distance Calculation program in Visual Studio Code. Feel free to explore the code and modify it to suit your needs.
 

@@ -74,8 +74,14 @@ int EditDistance(const string& x, const string& y) {
 }
 
 int main() {
-    string x = "clarks";
-    string y = "kirk";
+    string x, y;
+
+    cout << "Enter the first string: ";
+    cin >> x;
+
+    cout << "Enter the second string: ";
+    cin >> y;
+    
     int distance = EditDistance(x, y);
     cout << "Minimum edit distance: " << distance << endl;
 
